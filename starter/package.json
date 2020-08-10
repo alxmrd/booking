@@ -1,0 +1,27 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "booking site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxmrd/booking.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "sass"
+  ],
+  "author": "Alexandros Mironidis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxmrd/booking/issues"
+  },
+  "homepage": "https://github.com/alxmrd/booking#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
